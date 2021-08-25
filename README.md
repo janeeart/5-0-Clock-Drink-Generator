@@ -31,8 +31,8 @@
 
 # Technologies
 
-- The site uses Javascript, Node,js, Inquirer, Express, MYSQL, Sequelize, Bcrypt
-- [Cocktail API](https://www.thecocktaildb.com/api.php?ref=apilist.fun)
+- The site uses Javascript, HTML, CSS, Bootstrap, Node.js, MySQL, Sequelize, Express.js, Font Awesome, GitKraken, Adobe Dreamweaver, Moqups.
+- [Cocktail DB](https://www.thecocktaildb.com/api.php?ref=apilist.fun)
 
 # Contributors
 
